@@ -1,0 +1,2 @@
+rootProject.name='PKIET Library'
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754186710816",
+    "firebase_url": "https://pkiet-library.firebaseio.com",
+    "project_id": "pkiet-library",
+    "storage_bucket": "pkiet-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754186710816:android:84b660396be529acf77145",
+        "android_client_info": {
+          "package_name": "com.blackevil.pkietlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754186710816-g56p6pafkjncs9rvldsf9s0ctmauaj6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSqkKaVjgHuuGxyv-dmxntWX61jAJFmTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754186710816-g56p6pafkjncs9rvldsf9s0ctmauaj6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
